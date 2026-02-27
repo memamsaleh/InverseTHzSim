@@ -1,5 +1,5 @@
 # InverseTHzSim
-Repository for the paper "Direct Detection of Object Parameters from Raw Data in MIMO-SAR Imaging at 235-270 GHz via Inverse Simulation".
+Repository for the paper ["Direct Detection of Object Parameters from Raw Data in MIMO-SAR Imaging at 235-270 GHz via Inverse Simulation"](https://ieeexplore.ieee.org/document/11242135).
 
 ## Insturctions
 - Compile and build mitsuba3 following the instructions at https://mitsuba.readthedocs.io/en/stable/src/developer_guide/compiling.html
